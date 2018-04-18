@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CashApp</string>
+    <string-array name="currency">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>HNL</item>
+    </string-array>
+</resources>
